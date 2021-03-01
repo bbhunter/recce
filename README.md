@@ -150,7 +150,7 @@ Configure your slack_webhook in recce.py in order to recieve slack notifications
 # !Credits!
 To the Whole infosec Community :3
 
-@athif shaikh for suggesting this great name! :3
+@Aathif for suggesting this great name! :3
 
 # !Want to contribute?
 Do a pull request! 
